@@ -1,0 +1,28 @@
+h1{
+    color:rgb(170, 37, 37)
+}
+/*{
+ //   border:solid
+}*/
+.header{
+    background-color:rgb(124,98,240);
+    display:flex;
+    justify-content: space-between ;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:nowrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+
+   justify-content: center;
+}
+
+body{
+    background-color: #fedcba;
+    background-image: url("pirate.png");
+    background-size: 100% 200%;
+}
